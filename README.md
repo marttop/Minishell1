@@ -3,7 +3,7 @@
 - **Binary name:** my_rpg
 - **Repository name:** my_rpg_2019
 - **Language:** C
-- **Group Size:** 4
+- **Group Size:** 1
 - **Compilation:** via Makefile, including re, clean and fclean rules
 
 # Subject
