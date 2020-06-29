@@ -1,7 +1,7 @@
 # Minishell1
 
-- **Binary name:** my_rpg
-- **Repository name:** my_rpg_2019
+- **Binary name:** mysh
+- **Repository name:** PSU_minishell1_2019
 - **Language:** C
 - **Group Size:** 1
 - **Compilation:** via Makefile, including re, clean and fclean rules
